@@ -8,7 +8,7 @@
   "theme_color": "#193d68",
   "icons": [
     {
-      "src": "apple-touch-icon.png",
+      "src": "rally-icon-v32.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
